@@ -1,4 +1,4 @@
-Sample inputs you can try:
+# Sample inputs you can try:
 
 King coordinates: 5 6 
 
@@ -19,6 +19,7 @@ Knight 2 coordinates: 6 4
 OUTPUT: false - not checkmate
 
 
+
 King coordinates: 4 7  
 
 Queen coordinates: 3 0
@@ -36,6 +37,7 @@ Knight 1 coordinates: 1 0
 Knight 2 coordinates: 6 4
 
 OUTPUT: false - not checkmate [out of bounds case]
+
 
 
 King coordinates: 4 4
